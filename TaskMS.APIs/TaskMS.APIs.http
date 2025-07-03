@@ -1,0 +1,6 @@
+@TaskMS.APIs_HostAddress = http://localhost:5005
+
+GET {{TaskMS.APIs_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
