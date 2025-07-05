@@ -2,7 +2,7 @@
 
 namespace TaskMS.AccessData.Entites
 {
-    public class Task
+    public class task
     {
 
 

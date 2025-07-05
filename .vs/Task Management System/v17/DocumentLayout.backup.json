@@ -3,12 +3,8 @@
   "WorkspaceRootPath": "D:\\Programming\\Advanced C#\\Task Management System\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D2C6B96A-608C-4287-BC78-6605E3E25C97}|TaskMS.AccessData\\TaskMS.AccessData.csproj|d:\\programming\\advanced c#\\task management system\\taskms.accessdata\\entites\\enums\\enums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D2C6B96A-608C-4287-BC78-6605E3E25C97}|TaskMS.AccessData\\TaskMS.AccessData.csproj|solutionrelative:taskms.accessdata\\entites\\enums\\enums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D2C6B96A-608C-4287-BC78-6605E3E25C97}|TaskMS.AccessData\\TaskMS.AccessData.csproj|d:\\programming\\advanced c#\\task management system\\taskms.accessdata\\entites\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D2C6B96A-608C-4287-BC78-6605E3E25C97}|TaskMS.AccessData\\TaskMS.AccessData.csproj|solutionrelative:taskms.accessdata\\entites\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C8727A54-3AA8-4163-8DF6-030FBFFD22A5}|SimpleCalculator\\SimpleCalculator.csproj|d:\\programming\\advanced c#\\task management system\\simplecalculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8727A54-3AA8-4163-8DF6-030FBFFD22A5}|SimpleCalculator\\SimpleCalculator.csproj|solutionrelative:simplecalculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,27 +19,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Enums.cs",
-              "DocumentMoniker": "D:\\Programming\\Advanced C#\\Task Management System\\TaskMS.AccessData\\Entites\\Enums\\Enums.cs",
-              "RelativeDocumentMoniker": "TaskMS.AccessData\\Entites\\Enums\\Enums.cs",
-              "ToolTip": "D:\\Programming\\Advanced C#\\Task Management System\\TaskMS.AccessData\\Entites\\Enums\\Enums.cs",
-              "RelativeToolTip": "TaskMS.AccessData\\Entites\\Enums\\Enums.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Programming\\Advanced C#\\Task Management System\\SimpleCalculator\\Program.cs",
+              "RelativeDocumentMoniker": "SimpleCalculator\\Program.cs",
+              "ToolTip": "D:\\Programming\\Advanced C#\\Task Management System\\SimpleCalculator\\Program.cs",
+              "RelativeToolTip": "SimpleCalculator\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAhwBcAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-03T15:11:41.772Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Task.cs",
-              "DocumentMoniker": "D:\\Programming\\Advanced C#\\Task Management System\\TaskMS.AccessData\\Entites\\Task.cs",
-              "RelativeDocumentMoniker": "TaskMS.AccessData\\Entites\\Task.cs",
-              "ToolTip": "D:\\Programming\\Advanced C#\\Task Management System\\TaskMS.AccessData\\Entites\\Task.cs",
-              "RelativeToolTip": "TaskMS.AccessData\\Entites\\Task.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-03T14:23:54.862Z",
+              "WhenOpened": "2025-07-05T11:47:07.435Z",
               "EditorCaption": ""
             }
           ]

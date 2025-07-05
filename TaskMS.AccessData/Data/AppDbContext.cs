@@ -1,4 +1,5 @@
 ﻿using Microsoft.EntityFrameworkCore;
+using TaskMS.AccessData.Entites;
 
 namespace TaskMS.AccessData.Data
 {
@@ -8,7 +9,13 @@ namespace TaskMS.AccessData.Data
         {
         }
 
+        public DbSet<task> Tasks { get; set; }
 
+        protected override void OnModelCreating(ModelBuilder modelBuilder)
+        {
+            base.OnModelCreating(modelBuilder);
 
+            modelBuilder.ApplyConfigurationsFromAssembly(typeof(AppDbContext).Assembly);
+        }
     }
 }

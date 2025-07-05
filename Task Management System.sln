@@ -1,13 +1,15 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.36221.1 d17.14
+VisualStudioVersion = 17.14.36221.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskMS.APIs", "TaskMS.APIs\TaskMS.APIs.csproj", "{81FA7C12-5441-47BB-B63B-82796737D14D}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskMS.Business", "TaskMS.Business\TaskMS.Business.csproj", "{C21F27EE-EB7C-4016-8240-D0D347EC1C3F}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskMS.AccessData", "TaskMS.AccessData\TaskMS.AccessData.csproj", "{D2C6B96A-608C-4287-BC78-6605E3E25C97}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleCalculator", "SimpleCalculator\SimpleCalculator.csproj", "{C8727A54-3AA8-4163-8DF6-030FBFFD22A5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{D2C6B96A-608C-4287-BC78-6605E3E25C97}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D2C6B96A-608C-4287-BC78-6605E3E25C97}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D2C6B96A-608C-4287-BC78-6605E3E25C97}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C8727A54-3AA8-4163-8DF6-030FBFFD22A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8727A54-3AA8-4163-8DF6-030FBFFD22A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8727A54-3AA8-4163-8DF6-030FBFFD22A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8727A54-3AA8-4163-8DF6-030FBFFD22A5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
