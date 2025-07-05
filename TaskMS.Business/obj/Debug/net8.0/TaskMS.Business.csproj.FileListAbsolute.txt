@@ -10,3 +10,7 @@ D:\Programming\Advanced C#\Task Management System\TaskMS.Business\obj\Debug\net8
 D:\Programming\Advanced C#\Task Management System\TaskMS.Business\obj\Debug\net8.0\refint\TaskMS.Business.dll
 D:\Programming\Advanced C#\Task Management System\TaskMS.Business\obj\Debug\net8.0\TaskMS.Business.pdb
 D:\Programming\Advanced C#\Task Management System\TaskMS.Business\obj\Debug\net8.0\ref\TaskMS.Business.dll
+D:\Programming\Advanced C#\Task Management System\TaskMS.Business\bin\Debug\net8.0\TaskMS.AccessData.dll
+D:\Programming\Advanced C#\Task Management System\TaskMS.Business\bin\Debug\net8.0\TaskMS.AccessData.pdb
+D:\Programming\Advanced C#\Task Management System\TaskMS.Business\obj\Debug\net8.0\TaskMS.Business.csproj.AssemblyReference.cache
+D:\Programming\Advanced C#\Task Management System\TaskMS.Business\obj\Debug\net8.0\TaskMS.B.E958C6C4.Up2Date

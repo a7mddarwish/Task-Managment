@@ -172,3 +172,5 @@ D:\Programming\Advanced C#\Task Management System\TaskMS.APIs\bin\Debug\net8.0\r
 D:\Programming\Advanced C#\Task Management System\TaskMS.APIs\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
 D:\Programming\Advanced C#\Task Management System\TaskMS.APIs\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
 D:\Programming\Advanced C#\Task Management System\TaskMS.APIs\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Programming\Advanced C#\Task Management System\TaskMS.APIs\bin\Debug\net8.0\TaskMS.Business.dll
+D:\Programming\Advanced C#\Task Management System\TaskMS.APIs\bin\Debug\net8.0\TaskMS.Business.pdb

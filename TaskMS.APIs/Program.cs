@@ -1,5 +1,6 @@
 
 using TaskMS.AccessData;
+using TaskMS.Business;
 
 namespace TaskMS.APIs
 {
@@ -17,6 +18,7 @@ namespace TaskMS.APIs
             builder.Services.AddSwaggerGen();
 
             builder.Services.ADServices(configs: builder.Configuration);
+            builder.Services.BusinessInternalServices();
             var app = builder.Build();
 
             // Configure the HTTP request pipeline.

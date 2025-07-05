@@ -9,7 +9,7 @@ namespace TaskMS.AccessData.Data
         {
         }
 
-        public DbSet<task> Tasks { get; set; }
+        public DbSet<task> tasks { get; set; }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {

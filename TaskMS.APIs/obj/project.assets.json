@@ -1697,6 +1697,19 @@
         "runtime": {
           "bin/placeholder/TaskMS.AccessData.dll": {}
         }
+      },
+      "TaskMS.Business/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "TaskMS.AccessData": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/TaskMS.Business.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/TaskMS.Business.dll": {}
+        }
       }
     }
   },
@@ -5136,13 +5149,19 @@
       "type": "project",
       "path": "../TaskMS.AccessData/TaskMS.AccessData.csproj",
       "msbuildProject": "../TaskMS.AccessData/TaskMS.AccessData.csproj"
+    },
+    "TaskMS.Business/1.0.0": {
+      "type": "project",
+      "path": "../TaskMS.Business/TaskMS.Business.csproj",
+      "msbuildProject": "../TaskMS.Business/TaskMS.Business.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net8.0": [
       "Microsoft.EntityFrameworkCore.Design >= 9.0.6",
       "Swashbuckle.AspNetCore >= 6.6.2",
-      "TaskMS.AccessData >= 1.0.0"
+      "TaskMS.AccessData >= 1.0.0",
+      "TaskMS.Business >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -5179,6 +5198,9 @@
           "projectReferences": {
             "D:\\Programming\\Advanced C#\\Task Management System\\TaskMS.AccessData\\TaskMS.AccessData.csproj": {
               "projectPath": "D:\\Programming\\Advanced C#\\Task Management System\\TaskMS.AccessData\\TaskMS.AccessData.csproj"
+            },
+            "D:\\Programming\\Advanced C#\\Task Management System\\TaskMS.Business\\TaskMS.Business.csproj": {
+              "projectPath": "D:\\Programming\\Advanced C#\\Task Management System\\TaskMS.Business\\TaskMS.Business.csproj"
             }
           }
         }

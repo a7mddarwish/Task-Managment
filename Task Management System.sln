@@ -9,8 +9,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskMS.Business", "TaskMS.B
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskMS.AccessData", "TaskMS.AccessData\TaskMS.AccessData.csproj", "{D2C6B96A-608C-4287-BC78-6605E3E25C97}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleCalculator", "SimpleCalculator\SimpleCalculator.csproj", "{C8727A54-3AA8-4163-8DF6-030FBFFD22A5}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -29,10 +27,6 @@ Global
 		{D2C6B96A-608C-4287-BC78-6605E3E25C97}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D2C6B96A-608C-4287-BC78-6605E3E25C97}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D2C6B96A-608C-4287-BC78-6605E3E25C97}.Release|Any CPU.Build.0 = Release|Any CPU
-		{C8727A54-3AA8-4163-8DF6-030FBFFD22A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{C8727A54-3AA8-4163-8DF6-030FBFFD22A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{C8727A54-3AA8-4163-8DF6-030FBFFD22A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{C8727A54-3AA8-4163-8DF6-030FBFFD22A5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

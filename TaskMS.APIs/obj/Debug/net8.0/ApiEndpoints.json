@@ -1,0 +1,12 @@
+[
+  {
+    "ContainingType": "TaskMS.APIs.Controllers.TaskController",
+    "Method": "GetAllTasks",
+    "RelativePath": "api/Task/All",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

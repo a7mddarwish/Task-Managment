@@ -125,6 +125,9 @@
             "projectReferences": {
               "D:\\Programming\\Advanced C#\\Task Management System\\TaskMS.AccessData\\TaskMS.AccessData.csproj": {
                 "projectPath": "D:\\Programming\\Advanced C#\\Task Management System\\TaskMS.AccessData\\TaskMS.AccessData.csproj"
+              },
+              "D:\\Programming\\Advanced C#\\Task Management System\\TaskMS.Business\\TaskMS.Business.csproj": {
+                "projectPath": "D:\\Programming\\Advanced C#\\Task Management System\\TaskMS.Business\\TaskMS.Business.csproj"
               }
             }
           }
@@ -171,6 +174,75 @@
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
             },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Programming\\Advanced C#\\Task Management System\\TaskMS.Business\\TaskMS.Business.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Programming\\Advanced C#\\Task Management System\\TaskMS.Business\\TaskMS.Business.csproj",
+        "projectName": "TaskMS.Business",
+        "projectPath": "D:\\Programming\\Advanced C#\\Task Management System\\TaskMS.Business\\TaskMS.Business.csproj",
+        "packagesPath": "C:\\Users\\A7mdd\\.nuget\\packages\\",
+        "outputPath": "D:\\Programming\\Advanced C#\\Task Management System\\TaskMS.Business\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\A7mdd\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\Programming\\Advanced C#\\Task Management System\\TaskMS.AccessData\\TaskMS.AccessData.csproj": {
+                "projectPath": "D:\\Programming\\Advanced C#\\Task Management System\\TaskMS.AccessData\\TaskMS.AccessData.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }

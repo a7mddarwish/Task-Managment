@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TaskMS.AccessData")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3dcec0f2ed688260d7be0c835ff40a940052771e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f3c83d92147e4847f727218ae4e5eac63282fee9")]
 [assembly: System.Reflection.AssemblyProductAttribute("TaskMS.AccessData")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TaskMS.AccessData")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

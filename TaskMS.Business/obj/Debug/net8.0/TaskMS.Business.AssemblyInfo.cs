@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TaskMS.Business")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+37e38788dcc3f6eb078c637aa1c73282008c588e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f3c83d92147e4847f727218ae4e5eac63282fee9")]
 [assembly: System.Reflection.AssemblyProductAttribute("TaskMS.Business")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TaskMS.Business")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

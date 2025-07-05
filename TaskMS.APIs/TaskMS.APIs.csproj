@@ -16,6 +16,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\TaskMS.AccessData\TaskMS.AccessData.csproj" />
+    <ProjectReference Include="..\TaskMS.Business\TaskMS.Business.csproj" />
   </ItemGroup>
 
 </Project>
