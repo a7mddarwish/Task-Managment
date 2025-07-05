@@ -1,37 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\Programming\\Advanced C#\\Task Management System\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{C8727A54-3AA8-4163-8DF6-030FBFFD22A5}|SimpleCalculator\\SimpleCalculator.csproj|d:\\programming\\advanced c#\\task management system\\simplecalculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C8727A54-3AA8-4163-8DF6-030FBFFD22A5}|SimpleCalculator\\SimpleCalculator.csproj|solutionrelative:simplecalculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": [
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 0,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Programming\\Advanced C#\\Task Management System\\SimpleCalculator\\Program.cs",
-              "RelativeDocumentMoniker": "SimpleCalculator\\Program.cs",
-              "ToolTip": "D:\\Programming\\Advanced C#\\Task Management System\\SimpleCalculator\\Program.cs",
-              "RelativeToolTip": "SimpleCalculator\\Program.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAhwBcAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-05T11:47:07.435Z",
-              "EditorCaption": ""
-            }
-          ]
-        }
-      ]
+      "DocumentGroups": []
     }
   ]
 }
